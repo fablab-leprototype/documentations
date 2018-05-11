@@ -54,7 +54,7 @@ plaque de contreplaqué de 20x30cm, et on souhaite réaliser une découpe de 4
 plaques de 10x15 dans laquelle on va pyrograver une image.
 
 On associe une couleur à notre rectangle. Chaque couleur pourra avoir des
-paramêtres (puissance du laser par exemple) différents.
+paramètres (puissance du laser par exemple) différents.
 
 Le positionnement du rectangle sur la zone de travail est arbitraire.
 
@@ -86,11 +86,11 @@ Il faut maintenant s'intéresser à l'ordre d'exécution. La découpe du cadre d
 effectuée à la fin du processus.
 
 Un double click sur les élements ouvre la fenêtre permettant la
-personnalisation des paramêtres du laser.
+personnalisation des paramètres du laser.
 
 ### Parametres scan (texte)
 
-Les principaux paramêtres sur lesquels nous allons jouer sont les suivants:
+Les principaux paramètres sur lesquels nous allons jouer sont les suivants:
 
 * vitesse,
 * puissance laser max,
@@ -102,7 +102,7 @@ Quelques régles et conseils à respecter:
 
 * Il ne faut jamais dépasser 80% en puissance max
 * En mode scan, on peut mettre 20% en min et max.
-* Toujours activer le paramêtre "air assist"
+* Toujours activer le paramètre "air assist"
 
 En ce qui concerne le "Bidirectional scanning",cela dépend: pour des matériaux
 sensibles, il peut etre intéressant de le désactiver, mais en général, on peut
@@ -116,7 +116,7 @@ le laisser actif.
 
 * "scan all shapes at once" ou "scan shapes individually".
 
-### Paramêtre des images
+### Paramètre des images
 
 Utiliser le mode preview donne une idée de ce qu'on va obtenir
 
@@ -133,14 +133,14 @@ A savoir qu'avec le mode `grayscale` on peut faire des cartes en relief.
   matériau, difficile de se faire une idée pour le moment. De mémoire on a
   d'abord essayé avec `5 / 15 %`.
 
-### Paramêtre de coupe (cut)
+### Paramètre de coupe (cut)
 
 * 10 mm/sec de vitesse
 * 50% en puissance min et max
 
-## Conclusions sur les paramêtres
+## Conclusions sur les paramètres
 
-Il faut faire des essais, car il y a plusieurs paramêtres sur lesquels jouer,
+Il faut faire des essais, car il y a plusieurs paramètres sur lesquels jouer,
 difficile d'avoir une recette de cuisine toute faite pour chaque situation.
 
 Anthony nous indique en outre qu'avec ce qu'on a vu, on est à peine à 10% des
@@ -202,7 +202,7 @@ ne fait pas de mal.
 * Pour les images, en dessous de 10%, l'intensité du laser est trop faible,
   essayons plutôt 10% / 18%.
 
-* Lors de nos diverses tentatives (arrêt / ajustements des paramêtres /
+* Lors de nos diverses tentatives (arrêt / ajustements des paramètres /
   redémarrage), on peut supprimer le texte car on l'a déjà gravé lors de notre
   premier essai.
 
@@ -217,7 +217,7 @@ risques de rebondissement du laser sur la structure.
 
 # Fin / Résultat
 
-Les paramêtres de découpe sont peut être un peu forts, car les bords obtenus sont bien noirs.
+Les paramètres de découpe sont peut être un peu forts, car les bords obtenus sont bien noirs.
 
 Il faut attendre 5 à 10 minutes, puis
 
