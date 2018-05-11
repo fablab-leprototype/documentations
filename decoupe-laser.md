@@ -4,7 +4,7 @@ Cette introduction a été animée par Anthony le 3 mai 2018.
 
 # Présentation de la machine
 
-La découpeuse laser est principalement constituée d'une armature en taule,
+La découpeuse laser est principalement constituée d'une armature en tôle,
 ainsi que d'un module de refroidissement.
 
 Un capot avec des vitres teintées protège les yeux des intervenants du contact
@@ -18,7 +18,7 @@ déplacer sur 3 axes.
 
 Le laser n'est en réalité pas situé directement sur la partie mobile, mais
 déporté dans la partie bleue arrière supérieure de la machine. Un capot en
-taule est escamotable - protégé par des serrures et un jeu de clés - permettant
+tôle est escamotable - protégé par des serrures et un jeu de clés - permettant
 de protéger l'ensemble. Le laser est composé d'un tube dans lequel circule un
 circuit d'eau déminéralisée dont le module est situé sous la machine.
 
@@ -169,7 +169,7 @@ toujours allumé quand la machine fonctionne).
 On peut utiliser l'option "move to laser position" (menu arrange)
 
 Ce n'est pas grave si le laser tape à coté de la matière, car la focale étant
-réduite, il y a peu de risque de découper le fond de la taule de la machine.
+réduite, il y a peu de risque de découper le fond de la tôle de la machine.
 
 ## Essais à blanc
 
