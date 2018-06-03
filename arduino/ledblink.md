@@ -34,10 +34,10 @@ sera de 1 seconde.
 
 Le `Makefile` fourni permet de:
 
-#. Compiler le code
-#. Créer un exécutable pour le microprocesseur de l'Arduino
-#. Extraire juste la partie de code "effective" du binaire au format 'ihex'
-#. Envoyer cette partie de code via le logiciel `avrdude`
+1. Compiler le code
+2. Créer un exécutable pour le microprocesseur de l'Arduino
+3. Extraire juste la partie de code "effective" du binaire au format 'ihex'
+4. Envoyer cette partie de code via le logiciel `avrdude`
 
 `avrdude` accepte d'envoyer notre code compilé dans un format spécifique nommé
 "intel hex" (ihex).
