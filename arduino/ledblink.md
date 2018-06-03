@@ -13,8 +13,7 @@ de deux cables pour raccorder l'arduino à la plaque d'essai.
 
 # Logiciel nécessaire
 
-Le dépot github suivant: https://github.com/fablab-elefab/arduino-sandbox
-sur la branche `led`.
+Le dépot github [arduino sandbox](https://github.com/fablab-elefab/arduino-sandbox) sur la branche `led` contient le code nécessaire.
 
 comme vous pouvez le voir dans le fichier `led.c`, le code est relativement
 simple et ne nécessite pas encore de compiler des briques de la bibliothèque
