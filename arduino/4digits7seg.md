@@ -19,6 +19,9 @@ Notez que comme des fonctions propres au kit de développement Arduino, le
 `Makefile` est plus complexe que dans le cas du simple clignottement de LED
 précédent.
 
+TODO: expliquer un peu plus clairement ces histoires de bibliothèque Arduino et
+ce que cela implique.
+
 # Montage
 
 Suivez le schéma de cablage proposé sur le lien précédent.

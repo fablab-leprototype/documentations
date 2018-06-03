@@ -1,9 +1,9 @@
 # Introduction
 
 Vous venez de recevoir votre kit Arduino, celui-ci comporte tout un ensemble de
-périphériques dont vous ne savez pas trop quoi faire avec, alors autant
-commencer simple, saisissez-vous d'une LED et d'une résistance, ainsi que deux
-cables pour vous raccorder à la plaque d'essai.
+périphériques dont vous ne savez pas trop quoi faire avec encore, alors autant
+commencer par simple: saisissez-vous d'une LED et d'une résistance, ainsi que
+de deux cables pour raccorder l'arduino à la plaque d'essai.
 
 # Matériel nécessaire
 
@@ -17,8 +17,8 @@ Le dépot github suivant: https://github.com/fablab-elefab/arduino-sandbox
 sur la branche `led`.
 
 comme vous pouvez le voir dans le fichier `led.c`, le code est relativement
-simple et ne nécessite pas encore de compiler la bibliothèque officielle
-Arduino.
+simple et ne nécessite pas encore de compiler des briques de la bibliothèque
+officielle Arduino.
 
 La constante `BLINK_DELAY_MS` positionnée à 1000 indique que le clignotement
 sera de 1 seconde.
@@ -42,7 +42,6 @@ Le `Makefile` fourni permet de:
 `avrdude` accepte d'envoyer notre code compilé dans un format spécifique nommé
 "intel hex" (ihex).
 
-
 Un simple:
 
 ```
@@ -59,9 +58,9 @@ secondes.
 
 # Pour aller plus loin
 
-* Vous pouvez vous amuser à changer le délai
+* Vous pouvez changer le délai dans le code et recompiler / re-télécharger
 * Remplacez la sortie 13 par le `POWER 3.3V` de l'autre coté de l'Arduino pour
   avoir une LED allumée continuellement
-* Branchez ensuite un bouton poussoir pour controller l'allumage et
-  l'extinction de la LED
+* Branchez ensuite un bouton poussoir de votre kit pour controller l'allumage
+  et l'extinction de la LED
 
