@@ -15,9 +15,9 @@ Le code du tutoriel a été adapté pour permettre une compilation en dehors de
 l'environnement de développement, sur le dépot github utilisé précédemment,
 branche `4-digit-7-segments`.
 
-Notez que comme des fonctions propres au kit de développement Arduino, le
-`Makefile` est plus complexe que dans le cas du simple clignottement de LED
-précédent.
+Notez que comme des fonctions propres au kit de développement Arduino sont
+utilisées, le `Makefile` est de fait plus complexe que dans le cas du simple
+clignottement de LED précédent.
 
 TODO: expliquer un peu plus clairement ces histoires de bibliothèque Arduino et
 ce que cela implique.
