@@ -19,4 +19,5 @@ sous environnement linux, et de faire ces étapes à la main.
 
 * [Simple clignottement de LED](ledblink.md)
 * [Afficheur 4 digits 7 segments](4digits7seg.md)
+* [Écran LCD 1602A](lcd.md)
 
