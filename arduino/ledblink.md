@@ -1,3 +1,7 @@
+---
+layout: arduino
+title: Clignottement d'une LED
+---
 # Introduction
 
 Vous venez de recevoir votre kit Arduino, celui-ci comporte tout un ensemble de
@@ -13,7 +17,7 @@ de deux cables pour raccorder l'arduino à la plaque d'essai.
 
 # Logiciel nécessaire
 
-Le dépot github [arduino sandbox](https://github.com/fablab-elefab/arduino-sandbox) sur la branche `led` contient le code nécessaire.
+Le dépot github [arduino sandbox](https://github.com/fablab-elefab/arduino-sandbox){:.text-danger} sur la branche `led` contient le code nécessaire.
 
 comme vous pouvez le voir dans le fichier `led.c`, le code est relativement
 simple et ne nécessite pas encore de compiler des briques de la bibliothèque
@@ -53,7 +57,7 @@ secondes.
 
 # Résultat
 
-![Résultat du montage](./images/led-blinking.jpg)
+![Résultat du montage](./images/led-blinking.jpg){:.text-danger}
 
 # Pour aller plus loin
 

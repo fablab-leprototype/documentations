@@ -1,4 +1,8 @@
-# Arduino
+---
+layout: arduino
+title: Introduction
+---
+# Introduction
 
 Il existe de très nombreux kits permettant de se familiariser à l'informatique
 embarquée et l'électronique de manière générale, et l'arduino semble être à la
@@ -18,7 +22,7 @@ fait que "cacher" la compilation de fichiers supplémentaires assez courants,
 nous tacherons de rester dans une philosophie plus proche d'une compilation
 sous environnement linux, et de faire ces étapes à la main.
 
-* [Simple clignottement de LED](ledblink.md)
-* [Afficheur 4 digits 7 segments](4digits7seg.md)
-* [Écran LCD 1602A](lcd.md)
+* [Simple clignottement de LED](ledblink.md){:.text-danger}
+* [Afficheur 4 digits 7 segments](4digits7seg.md){:.text-danger}
+* [Écran LCD 1602A](lcd.md){:.text-danger}
 

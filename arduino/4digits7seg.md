@@ -1,7 +1,11 @@
+---
+layout: arduino
+title: Afficheur 4 digits 7 segments
+---
 # Introduction
 
 Nous allons nous inspirer du [tutoriel en ligne sur le site
-d'arduino](https://create.arduino.cc/projecthub/SAnwandter1/programming-4-digit-7-segment-led-display-2d33f8).
+d'arduino](https://create.arduino.cc/projecthub/SAnwandter1/programming-4-digit-7-segment-led-display-2d33f8){:.text-danger}.
 
 # Matériel
 
@@ -35,7 +39,7 @@ $ make
 
 # Résultat
 
-![Résultat du montage et envoi du code](./images/4digits7segs-plugged.jpg)
+![Résultat du montage et envoi du code](./images/4digits7segs-plugged.jpg){:.text-danger}
 
 TODO: Comprendre ce que fait le code, car je ne l'ai même pas lu ...
 
