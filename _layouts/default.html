@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link href="https://elefab.org/test/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" integrity="sha256-AIodEDkC8V/bHBkfyxzolUMw57jeQ9CauwhVW6YJ9CA=" crossorigin="anonymous" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css">
+    <link href="https://elefab.org/test/css/elefab.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body class="bg-white">
+    <div id="background"></div>
+
+    <div class="container-fluid w-75">
+
+      <div class="row my-5">
+        <!-- logo -->
+        <div class="col-md-2">
+          <img src="/assets/img/elefab.png" alt="logo" />
+        </div>
+        <div class="col-md-8 offset-md-2">
+          <h1><a href="/" class="text-danger">Accueil</a> > {{ page.title }}</h1>
+	</div>
+      </div>
+
+      <div class="row my-5">
+        <div class="col-md-8 offset-md-2">
+          {{ content }}
+        </div>
+      </div>
+
+    </div>
+
+
+    {% include footer.html %}
+  </body>
+</html>

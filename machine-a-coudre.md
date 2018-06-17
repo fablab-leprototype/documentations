@@ -1,4 +1,4 @@
-# Introduction
+# Machines à coudre
 
 Cette documentation a pour but de présenter brièvement l'utilisation des
 machines à coudre prétées par nos membres au fablab et à ses adhérents.
