@@ -57,7 +57,7 @@ secondes.
 
 # Résultat
 
-![Résultat du montage](./images/led-blinking.jpg){:.text-danger}
+![Résultat du montage](./images/led-blinking.jpg)
 
 # Pour aller plus loin
 
