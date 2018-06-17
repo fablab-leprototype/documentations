@@ -19,6 +19,6 @@ Certaines de ces documentations peuvent être en cours de rédaction et/ou
 incomplètes.
 
 * [Introduction à la découpeuse laser](./decoupe-laser){:.text-danger}
-* [Utilisation des machines à coudre](./machine-a-coudre){:.text-danger}
+* [Utilisation des machines à coudre](./couture){:.text-danger}
 * [Arduino et ses périphériques](./arduino){:.text-danger}
 

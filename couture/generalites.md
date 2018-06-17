@@ -1,10 +1,10 @@
-# Machines à coudre
+---
+layout: couture
+---
+# Généralités 
 
 Cette documentation a pour but de présenter brièvement l'utilisation des
 machines à coudre prétées par nos membres au fablab et à ses adhérents.
-
-Une machine de type "singer initiale" est mise à disposition par
-[Pierre](mailto:p.mauduit@elefab.org).
 
 # Rapide description
 
