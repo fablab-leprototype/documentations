@@ -9,7 +9,7 @@ Les membres du fablab mettent à disposition deux machines à coudre:
 * Une "Singer Initiale"
 * Une de marque Bluesky
 
-Bien qu'étant de marque différente, ces deux machines présentes beaucoup de
+Bien que marques différentes, ces deux machines présentent beaucoup de
 similarités, notamment en terme de fonctionnalités.
 
 # Documentations
