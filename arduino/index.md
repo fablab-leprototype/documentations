@@ -7,8 +7,9 @@ existent -, et étant donné qu'il est compatible avec pléthore de périphériq
 différents, les sujets peuvent être variés.
 
 Cette documentation recense diverses tentatives, élaborées à partir d'un kit à
-20 euros sur un site chinois. Nous considérerons de base être en possession
-d'un arduino Uno, mais avec les bases et le recul nécessaire, vous devriez être en mesure d'adapter à vos besoins.
+20 euros sur un site chinois. Nous considérerons être en possession d'un
+arduino Uno, mais avec les bases et le recul nécessaire, vous devriez être en
+mesure d'adapter à vos besoins.
 
 Par ailleurs, même si ces textes ont été écrits en tentant d'éviter
 l'utilisation de l'environnement de développement officiel, il s'avère que les
