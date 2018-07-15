@@ -17,17 +17,20 @@
     <![endif]-->
   </head>
   <body class="bg-white">
-    <div id="background"></div>
+
+    <header class="header">
+      <nav class="nav flex-column">
+        <a class="nav-link active" href="/"><i class="fa fa-2x fa-home text-muted mr-2">Accueil</i></a>
+        <a class="nav-link" href="/arduino"><i class="fa fa-2x fa-book text-muted mr-2">Arduino</i></a>
+      </nav>
+    </header>
 
     <div class="container-fluid w-75">
 
       <div class="row my-5">
         <!-- logo -->
-        <div class="col-md-2">
-          <img src="/assets/img/elefab.png" alt="logo" />
-        </div>
         <div class="col-md-8 offset-md-2">
-          <h1><a href="/" class="text-danger">Accueil</a> > <a href="/arduino" class="text-danger">Arduino</a> > {{ page.title }}</h1>
+          <h1>{{ page.title }}</h1>
 	</div>
       </div>
 

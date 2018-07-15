@@ -1,6 +1,6 @@
 ---
 layout: arduino
-title: Introduction
+title: Arduino
 ---
 # Introduction
 
