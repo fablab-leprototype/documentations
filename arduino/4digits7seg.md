@@ -1,5 +1,4 @@
 ---
-layout: arduino
 title: Afficheur 4 digits 7 segments
 ---
 # Introduction

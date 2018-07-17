@@ -1,6 +1,10 @@
-# Introduction à la découpe laser
+---
+title: Découpe laser
+---
+# Introduction
 
-Cette introduction a été animée par Anthony le 3 mai 2018.
+Cette introduction à l'utilisation de la découpe laser a été animée par Anthony
+le 3 mai 2018.
 
 # Présentation de la machine
 

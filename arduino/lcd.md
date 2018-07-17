@@ -1,5 +1,4 @@
 ---
-layout: arduino
 title: Afficheur LCD
 ---
 # Introduction

@@ -1,5 +1,4 @@
 ---
-layout: arduino
 title: Clignottement d'une LED
 ---
 # Introduction

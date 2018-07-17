@@ -1,6 +1,3 @@
----
-layout: couture
----
 # Généralités 
 
 Cette documentation a pour but de présenter brièvement l'utilisation des

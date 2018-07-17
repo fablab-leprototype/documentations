@@ -1,5 +1,4 @@
 ---
-layout: couture
 title: Index
 ---
 # Couture
