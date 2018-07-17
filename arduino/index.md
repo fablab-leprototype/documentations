@@ -10,16 +10,19 @@ existent -, et étant donné qu'il est compatible avec pléthore de périphériq
 différents, les sujets peuvent être variés.
 
 Cette documentation recense diverses tentatives, élaborées à partir d'un kit à
-20 euros sur un site chinois. Nous considérerons être en possession d'un
-arduino Uno, mais avec les bases et le recul nécessaire, vous devriez être en
-mesure d'adapter à vos besoins.
+20 euros commandé sur un site chinois. Nous considérerons être en possession
+d'un arduino Uno, mais avec les bases, vous devriez être en mesure d'adapter à
+votre matériel.
 
 Par ailleurs, même si ces textes ont été écrits en tentant d'éviter
 l'utilisation de l'environnement de développement officiel, il s'avère que les
 bibliothèques Arduino deviennent assez vite incontournables. Comme l'IDE ne
 fait que "cacher" la compilation de fichiers supplémentaires assez courants,
 nous tacherons de rester dans une philosophie plus proche d'une compilation
-sous environnement linux, et de faire ces étapes à la main.
+sous environnement linux, et de réaliser ces étapes avec des outils de
+développement classiques (`Makefiles`, compilateurs, ...).
+
+# Tutoriels disponibles
 
 * [Simple clignottement de LED](ledblink.md){:.text-danger}
 * [Afficheur 4 digits 7 segments](4digits7seg.md){:.text-danger}
