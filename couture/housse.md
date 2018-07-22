@@ -75,3 +75,31 @@ Au final, notre projet une fois retourné dans le bon sens afin de masquer les
 travaux de couture, ressemble à l'illustration suivante:
 
 ![Résultat final](./images/housse/final.jpg)
+
+# Fermeture de la housse
+
+Nous allons poser une fermeture éclair afin de pouvoir fermer la housse. Après
+avoir raccourci la fermeture qui était d'origine trop longue, nous retournons
+la housse, et nous fixons la fermeture d'un coté avec des aiguilles.
+
+Nous cousons ensuite la fermeture sur une des extrémités de la housse.
+
+Pour la deuxième extrémité, nous ouvrons la fermeture afin de pouvoir
+travailler sans être géné, puis nous effectuons quelques finitions de chaque
+coté en prenant une vitesse suffisemment lente pour travailler.
+
+La précision nécessaire due à l'épaisseur réduite entre les dents en métal de
+la fermeture et la pose de nos aiguilles nous oblige d'une part à une couture
+droite et d'autre part à utiliser une vitesse relativement lente.
+
+Une fois la fermeture posée, nous pouvons retourner la housse et y insérer
+notree oreiller de récupération.
+
+![Résultat final](./images/housse/coussin.jpg)
+
+Avec un euro de dépense pour la fermeture éclair, un vieux Jean et un oreiller
+récupéré, il est possible de fabriquer des coussins somme toute sympathiques et
+amusants. Et l'utilisation d'une machine à coudre dans les grandes lignes n'a
+probablement plus de secret pour vous.
+
+
