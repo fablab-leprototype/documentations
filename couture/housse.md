@@ -5,8 +5,8 @@ title: Housse de coussin
 # Introduction
 
 Dans le but de faire une rapide prise en main des machines à coudre, nous avons
-pris un cas pratique: Ayant récupéré d'un vieux Jean un peu de tissu ainsi que
-de la bourre d'oreillers, nous souhaitons réaliser un coussin.
+pris un cas pratique: Ayant récupéré d'un vieux Jean un peu de tissu ainsi
+qu'un oreiller, nous souhaitons réaliser un coussin.
 
 ![Vue d'ensemble](./images/housse/vue-ensemble.jpg)
 
@@ -58,7 +58,7 @@ tenté pour éviter cela de:
 
 Nous avons alors changé d'aiguille pour en mettre une spéciale Jean. À noter
 qu'il existe différents types d'aiguilles, selon le type de tissu utilisé:
-Jersey - tissu plutot elastique -, Jean, ou même cuir). Les aiguilles par
+Jersey - tissu plutot elastique -, Jean, ou même cuir. Les aiguilles par
 défaut relativement polyvalentes sont les 90/14.
 
 # Résolution
@@ -93,7 +93,7 @@ la fermeture et la pose de nos aiguilles nous oblige d'une part à une couture
 droite et d'autre part à utiliser une vitesse relativement lente.
 
 Une fois la fermeture posée, nous pouvons retourner la housse et y insérer
-notree oreiller de récupération.
+notre oreiller de récupération.
 
 ![Résultat final](./images/housse/coussin.jpg)
 
