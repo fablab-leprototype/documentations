@@ -10,13 +10,13 @@ Le but était de prendre en main la matrice de LED 8x8 fournie avec le kit
 arduino que nous utilisons lors de ces séances de découverte.
 
 Nous avons simplement suivi le tutoriel disponible sur le [site officiel
-Arduino](https://www.arduino.cc/en/Tutorial/RowColumnScanning){:.text-danger}.
+Arduino](https://www.arduino.cc/en/Tutorial/RowColumnScanning).
 
 # Code
 
 Afin de pouvoir compiler le code en dehors de l'environnement de développement
 Arduino, nous avons créé une branche dans le [dépot github dédié à nos
-expérimentations](https://github.com/fablab-leprototype/arduino-sandbox/tree/led-8x8){:.text-danger}.
+expérimentations](https://github.com/fablab-leprototype/arduino-sandbox/tree/led-8x8).
 
 ![montage](./images/led-8x8/montage.jpg)
 

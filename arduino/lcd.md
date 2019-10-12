@@ -18,10 +18,10 @@ sorties.
 
 # Méthode 1: LCD sans contrôleur I2C
 
-Cf [Ce tutoriel](http://www.dreamdealer.nl/tutorials/connecting_a_1602a_lcd_display_and_a_light_sensor_to_arduino_uno.html){:.text-danger}.
+Cf [Ce tutoriel](http://www.dreamdealer.nl/tutorials/connecting_a_1602a_lcd_display_and_a_light_sensor_to_arduino_uno.html).
 
 Note: Le [site officiel
-Arduino](https://www.arduino.cc/en/Reference/LiquidCrystal){:.text-danger} propose aussi un
+Arduino](https://www.arduino.cc/en/Reference/LiquidCrystal) propose aussi un
 ensemble de tutoriels.
 
 # Méthode 2: LCD avec contrôleur I2C
@@ -40,7 +40,7 @@ l'arduino au contrôleur:
 
 `SDA` et `SCL` sont des pins classiques des contrôleurs de bus I2C, les curieux
 trouveront plus d'informations sur
-[Wikipedia](https://fr.wikipedia.org/wiki/I2C#Topologie){:.text-danger}.
+[Wikipedia](https://fr.wikipedia.org/wiki/I2C#Topologie).
 
 Ci-dessous, une vue d'ensemble de notre montage:
 
@@ -49,18 +49,18 @@ Ci-dessous, une vue d'ensemble de notre montage:
 ## Code
 
 L'inspiration de ce tutoriel provient du site
-[Sunfounder](https://www.sunfounder.com/learn/Sensor-Kit-v2-0-for-Arduino/lesson-1-display-by-i2c-lcd1602-sensor-kit-v2-0-for-arduino.html){:.text-danger}.
-Le code source de notre programme se trouve sur le [dépot git arduino-sandbox du fablab](https://github.com/fablab-leprototype/arduino-sandbox/tree/lcd-1602a-i2c){:.text-danger},
+[Sunfounder](https://www.sunfounder.com/learn/Sensor-Kit-v2-0-for-Arduino/lesson-1-display-by-i2c-lcd1602-sensor-kit-v2-0-for-arduino.html).
+Le code source de notre programme se trouve sur le [dépot git arduino-sandbox du fablab](https://github.com/fablab-leprototype/arduino-sandbox/tree/lcd-1602a-i2c),
 branche `lcd-1602a-i2c`.
 
 Ce code est compilable en dehors de l'environnement de développement Arduino, mais nécessite toutefois
 l'utilisation du SDK Arduino (Paquet debian `arduino-core`).
 
 Par ailleurs, il nécessite une bibliothèque tierce disponible [sur
-github](https://github.com/marcoschwartz/LiquidCrystal_I2C/){:.text-danger}, et dont les
+github](https://github.com/marcoschwartz/LiquidCrystal_I2C/), et dont les
 sources ont été incluses dans la branche de notre dépot, au sein du
 sous-répertoire
-[liquidcrystal](https://github.com/fablab-leprototype/arduino-sandbox/tree/lcd-1602a-i2c/liquidcrystal){:.text-danger}.
+[liquidcrystal](https://github.com/fablab-leprototype/arduino-sandbox/tree/lcd-1602a-i2c/liquidcrystal).
 
 Intéressons-nous au fichier `lcd.c` ; celui-ci reprend quelques éléments des
 tutoriels précédents, avec quelques nouveautés:

@@ -13,7 +13,7 @@ similarités, notamment en terme de fonctionnalités.
 
 # Documentations
 
-* [Généralités](./generalites){:.text-danger}
-* ["Hands-On" housse pour coussin](./housse){:.text-danger}
+* [Généralités](./generalites)
+* ["Hands-On" housse pour coussin](./housse)
 
 
