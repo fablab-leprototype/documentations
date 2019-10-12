@@ -27,4 +27,5 @@ développement classiques (`Makefiles`, compilateurs, ...).
 * [Simple clignottement de LED](ledblink.md){:.text-danger}
 * [Afficheur 4 digits 7 segments](4digits7seg.md){:.text-danger}
 * [Écran LCD 1602A](lcd.md){:.text-danger}
+* [Matrice de LED 8x8](led-8x8.md){:.text-danger}
 
