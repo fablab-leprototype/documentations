@@ -17,6 +17,7 @@ votre compte à l'équipe autorisée à effectuer des modifications.
 Certaines de ces documentations peuvent être en cours de rédaction et/ou
 incomplètes.
 
+* [La mini-graveuse laser NEJE](./neje)
 * [Introduction à la découpeuse laser](./decoupe-laser)
 * [Utilisation des machines à coudre](./couture)
 * [Arduino et ses périphériques](./arduino)
