@@ -5,24 +5,25 @@ title: Mini graveuse laser NEJE
 
 Cette machine a été concue pour des petits travaux de gravure à la laser. La
 société produisant ces machines proposent des logiciels propriétaires pour
-l'utiliser, toutefois il existe une solution libre dont les [sources sont
+l'utiliser et aucune solution n'est proposée pour les utilisateurs de Linux.
+Il existe toutefois une solution libre dont les [sources sont
 disponibles sur Github](https://github.com/camrein/EzGraver).
 
-Nous allons donc utiliser EzGraver.
+Etant actuellement sous système Linux, nous allons donc utiliser EzGraver.
 
 # Compilation
 
-Simplement cloner le dépot et suivre les instructions définies dans le README.
+Simplement cloner le dépot précédent et suivre les instructions définies dans le README.
 
-Il suffit ensuite, une fois le `make install` effectué, d'aller dans le
+Il suffit ensuite - une fois la commande `make install` effectuée - d'aller dans le
 sous-répertoire `EzGraverUi` et de lancer l'application.
 
 
 # Présentation de la machine
 
-Il s'agit d'une boite en plastique carrée avec un plateau se déplaçant d'avant
+Il s'agit d'un cadre en plastique carré avec un plateau se déplaçant d'avant
 en arrière, le laser étant situé sur une partie mobile bougeant de gauche à
-droite.
+droite. Il n'y a pas d'axe Z.
 
 ![NEJE](./images/neje/neje.jpg "Vue d'ensemble de la machine")
 
@@ -33,12 +34,11 @@ droite.
   des moteurs.
 
 * 1 entrée USB de type mini-usb, reliée à l'ordinateur, offrant une interface
-  série, et permettant le pilotage par le logiciel
+  série et permettant le pilotage par le logiciel.
 
 # Interface utilisateur de EzGraver
 
 Cf capture ci-après:
-
 
 ![EzGraver](./images/neje/ezgraver.png "Le logiciel EzGraver")
 
@@ -62,13 +62,11 @@ Une fois nos réglages effectués, il est possible de lancer la gravure, en:
 
 # Conclusions
 
-Ci-après le résultat de la gravure obtenu avec la capture d'écran précédente:
+Ci-après le résultat de la gravure obtenue d'après les réglages présents sur la
+capture d'écran précédente:
 
 ![Gravure obtenue](./images/neje/gravure.jpg "La gravure obtenue")
 
 La surface de travail est très réduite (à peine quelques centimêtres). Aussi,
 pour des travaux plus importants, il vous sera sans doute nécessaire d'utiliser
 la [découpe laser](/decoupe-laser) du fablab.
-
-
-
