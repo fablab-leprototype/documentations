@@ -28,4 +28,5 @@ développement classiques (`Makefiles`, compilateurs, ...).
 * [Afficheur 4 digits 7 segments](4digits7seg.md)
 * [Écran LCD 1602A](lcd.md)
 * [Matrice de LED 8x8](led-8x8.md)
+* [Lecteur NFC RC522](nfc-rc522.md)
 
