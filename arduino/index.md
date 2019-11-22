@@ -27,6 +27,6 @@ développement classiques (`Makefiles`, compilateurs, ...).
 * [Simple clignottement de LED](ledblink.md)
 * [Afficheur 4 digits 7 segments](4digits7seg.md)
 * [Écran LCD 1602A](lcd.md)
-* [Matrice de LED 8x8](led-8x8.md)
-* [Lecteur NFC RC522](nfc-rc522.md)
+* [10 octobre 2019: Matrice de LED 8x8](led-8x8.md)
+* [21 novembre 2019: Lecteur NFC RC522](nfc-rc522.md)
 
