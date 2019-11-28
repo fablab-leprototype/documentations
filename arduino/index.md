@@ -29,4 +29,5 @@ développement classiques (`Makefiles`, compilateurs, ...).
 * [Écran LCD 1602A](lcd.md)
 * [10 octobre 2019: Matrice de LED 8x8](led-8x8.md)
 * [21 novembre 2019: Lecteur NFC RC522](nfc-rc522.md)
+* [28 novembre 2019: Capteur de température DHT11](dht11.md)
 
