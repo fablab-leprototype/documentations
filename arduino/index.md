@@ -31,4 +31,5 @@ développement classiques (`Makefiles`, compilateurs, ...).
 * [21 novembre 2019: Lecteur NFC RC522](nfc-rc522.md)
 * [28 novembre 2019: Capteur de température DHT11](dht11.md)
 * [16 janvier 2020: Sorties PWM et LED](led-fade.md)
+* [30 janvier 2020: Moteur pas à pas](stepper-motor.md)
 
